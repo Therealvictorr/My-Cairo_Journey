@@ -1,0 +1,7 @@
+# In my attempt to build my knowledge of Cairo, I have taken it upon myself to simplify the lingo of Cairo, where I can be able to teach it to 10 year olds. 
+#I think that is when I can say I have fully known it
+##Arrays
+imagine you have a magical box called an "array." This box can hold a bunch of toys that are all the same type, like all cars or all dolls. 
+Once you put a toy in the box, it stays there, and you can keep adding more toys to the end of the line inside the box. However, you can't take any toys out, and you can't change the 
+toys that are already inside. 
+It's like a special rule of the box: once something goes in, it stays that way, and we can only add more things to the end. That's how arrays work!
